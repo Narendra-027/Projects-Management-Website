@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Progetto---Project-Management-Website/static/css/main.d7c1c4d6.css",
+    "main.js": "/Progetto---Project-Management-Website/static/js/main.bedb8806.js",
+    "static/js/787.bd00bb13.chunk.js": "/Progetto---Project-Management-Website/static/js/787.bd00bb13.chunk.js",
+    "static/media/ci.jpg": "/Progetto---Project-Management-Website/static/media/ci.a6f1ef063ae7751e1355.jpg",
+    "static/media/ai.jpg": "/Progetto---Project-Management-Website/static/media/ai.a9c162f0b48e081d88c5.jpg",
+    "static/media/bb.jpg": "/Progetto---Project-Management-Website/static/media/bb.a53444341ae35d7a397d.jpg",
+    "static/media/me.jpg": "/Progetto---Project-Management-Website/static/media/me.1231620d930c68dec84a.jpg",
+    "static/media/q.jpg": "/Progetto---Project-Management-Website/static/media/q.dda2504bc7356602c3c4.jpg",
+    "static/media/cs.jpg": "/Progetto---Project-Management-Website/static/media/cs.3223fddc035a1922d3a7.jpg",
+    "static/media/ee.jpg": "/Progetto---Project-Management-Website/static/media/ee.3d54e81a0a6f1441a4fa.jpg",
+    "static/media/user.png": "/Progetto---Project-Management-Website/static/media/user.2ffee28a30387fc9fe84.png",
+    "static/media/ch.jpg": "/Progetto---Project-Management-Website/static/media/ch.8a6252521364c9c41b22.jpg",
+    "static/media/mt.jpg": "/Progetto---Project-Management-Website/static/media/mt.053f0ca0c2180768e90d.jpg",
+    "static/media/images.jpg": "/Progetto---Project-Management-Website/static/media/images.2914bead10289e98fb4a.jpg",
+    "index.html": "/Progetto---Project-Management-Website/index.html",
+    "main.d7c1c4d6.css.map": "/Progetto---Project-Management-Website/static/css/main.d7c1c4d6.css.map",
+    "main.bedb8806.js.map": "/Progetto---Project-Management-Website/static/js/main.bedb8806.js.map",
+    "787.bd00bb13.chunk.js.map": "/Progetto---Project-Management-Website/static/js/787.bd00bb13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c1c4d6.css",
+    "static/js/main.bedb8806.js"
+  ]
+}

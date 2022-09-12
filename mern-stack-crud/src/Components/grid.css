@@ -1,0 +1,144 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background: black;
+    
+ }
+
+
+
+
+.m1{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 600px;
+    padding:20px;
+    box-sizing: border-box;
+    display: flex;
+    background: whitesmoke;
+}
+.m1:hover{
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+.m1 .imgBx{
+    width:300px;
+    flex: 0 0 250px;
+
+}
+.m1 .imgBx img{
+    max-width: 100%;
+}
+
+.m1 .content{
+    padding-left: 20px;
+    color: black;
+}
+
+.m1 .content h2{
+    margin: 0;
+    padding-left: 0;
+    color: rgb(10, 10, 27); 
+    font-size: 15px;
+}
+.m1 .content p{
+    margin: 0;
+    padding: 10px 0 0;
+    text-align: justify;
+
+}
+.m2{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 600px;
+    padding:20px;
+    box-sizing: border-box;
+    display: flex;
+    background:whitesmoke;
+}
+.m2:hover{
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+.m2 .imgBx{
+    width:300px;
+    flex: 0 0 250px;
+
+}
+.m2 .imgBx img{
+    max-width: 100%;
+}
+
+.m2 .content{
+    padding-left: 20px;
+    color: black;
+}
+
+.m2 .content h2{
+    margin: 0;
+    padding-left: 0;
+    color: rgb(10, 10, 27);
+    font-size: 20px;
+}
+.m2 .content p{
+    margin: 0;
+    padding: 10px 0 0;
+    text-align: justify;
+
+} 
+
+
+
+
+.container{
+    display: grid; 
+     grid-template-columns: auto auto;
+    /* height:120vh; */
+    width: 100vw;
+    padding: 2px; 
+}
+
+.card{
+    background-color: white;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: space-around;
+    height:50vh;
+    padding: 20px;
+    border:none;
+    margin: 20px;
+    font-size: 1rem;
+    text-align: center;
+    border-radius: 1rem;
+    color:white;
+    background: black;
+}
+.imgBx img{
+    object-fit:cover;
+    width:70%;
+    margin-top:20px;
+    height:auto;
+    
+    border-radius:0.5rem;
+}
+.content h2 b{
+    font-size:1.5rem;
+}
+.nav-link{
+    color:white;
+}
+.slide .content{
+    padding-left: 40px;
+    color: white;
+
+}
+
+.slide .imgBx{
+    width: 1200px;
+    align-self: center;
+}
+
